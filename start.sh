@@ -1,5 +1,5 @@
 source /usr/local/etc/ocp4.config
-if [ -z ${RHT_OCP4_DEV_USER}]
+if [ -z ${RHT_OCP4_DEV_USER} ]
 then	
 	echo "Please login in OpenShift manually before starting"
   	echo "If already logged in OpenShift, just bash 'deploy.sh'"
