@@ -1,0 +1,6 @@
+1. run "bash start.sh" to start
+   # In "start.sh", it will source ocp4.config to login OpenShift
+   # And then, it will create a new project
+   # Finally, it processes the template file
+2. run "oc get route"
+3. curl command to test
