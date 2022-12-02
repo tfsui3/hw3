@@ -1,4 +1,4 @@
-# Homework3
+# Homework3 By Ziming Yang
 homework3 Multi-Container OpenShift Application
 
 Start:
