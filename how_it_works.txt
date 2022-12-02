@@ -1,6 +1,8 @@
 1. run "bash start.sh" to start
-   # In "start.sh", it will source ocp4.config to login OpenShift
-   # And then, it will create a new project
-   # Finally, it processes the template file
+   # 1. In "start.sh", it will source ocp4.config to login OpenShift
+   # 2. Create a new OpenShift project
+   # 3. Processes the template file
+   # 4. The template file will pull mysql image and php image, create services respectively, and deploy app
+   # 5. Wait util pods running
 2. run "oc get route"
 3. curl command to test
