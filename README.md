@@ -1,4 +1,4 @@
-# hw3
+# Homework3
 homework3 Multi-Container OpenShift Application
 
 Start:
