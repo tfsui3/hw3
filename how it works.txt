@@ -1,4 +1,4 @@
-1. Login OpenShift
-2. run "bash start.sh"
+1. Need to login OpenShift first before start deploying
+2. run "bash start.sh" to start
 3. run "oc get route"
 4. curl command to test
