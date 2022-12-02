@@ -1,8 +1,11 @@
 # Homework3 By Ziming Yang
 homework3 Multi-Container OpenShift Application
 
+Before Start:
+Log into OpenShift
+
 Start:
-bash start.sh
+If already logged into OpenShift, bash deploy.sh
 
 How it works:
-See file "how_it_works.txt"
+Instructions are in file "how_it_works.txt"
